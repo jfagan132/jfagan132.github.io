@@ -12,6 +12,7 @@ body
     margin-top:10px;
     padding:10px 10px 10px 10px;
     border-radius:15px;
+    border-color:black;
 }
 
 .container 
@@ -23,6 +24,7 @@ body
     margin-left:50px;
     background-color:white;
     border-radius:25px;
+    border-color:black;
 }
 
 #mfw
