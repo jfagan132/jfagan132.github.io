@@ -13,6 +13,8 @@ body
     padding:10px 10px 10px 10px;
     border-radius:15px;
     border-color:black;
+    border-width: 1px;
+    border-style: solid;
 }
 
 .container 
@@ -25,6 +27,8 @@ body
     background-color:white;
     border-radius:25px;
     border-color:black;
+    border-width: 3px;
+    border-style: solid;
 }
 
 #mfw
